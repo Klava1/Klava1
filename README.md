@@ -11,10 +11,6 @@ I'm a vibrant and communicative individual, deeply passionate about technology a
 
 I've applied my skills to several projects, which are showcased on my [GitHub](https://github.com/Klava1). These projects reflect my ability to adapt and grow in line with market demands. Overcoming challenges such as keeping pace with evolving technologies has been instrumental in my development.
 
-## 💼 Work Experience
-
-My entrepreneurial journey includes managing a Shopify store, an experience that deepened my understanding of technology's practical applications in business contexts.
-
 ## 📚 Education
 
 - Graduate Diploma in IT from Queen Mary University of London
